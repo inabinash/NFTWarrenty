@@ -201,24 +201,7 @@ Once a warranty is activated by a owner in their dashboard the warranty also sho
 
 ## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/a-sambhab"><img src="https://avatars.githubusercontent.com/u/84642011?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sai Sambhab Chaini</b></sub></a><br /><a href="" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/gouravmohanty7070"><img src="https://avatars.githubusercontent.com/u/77116228?v=4" width="100px;" alt=""/><br /><sub><b>Gourav Mohanty</b></sub></a><br /><a href="" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/inabinash"><img src="https://avatars.githubusercontent.com/u/78683499?v=4" width="100px;" alt=""/><br /><sub><b>Abinash Gupta</b></sub></a><br /><a href="" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/kumarshantanu01"><img src="https://avatars.githubusercontent.com/u/76111005?v=4" width="100px;" alt=""/><br /><sub><b>
-Kumar Shantanu</b></sub></a><br /><a href="" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Pramod Kumar Mallik
+Subham Dash
+Maloth Aditya 
+Abinash Gupta
