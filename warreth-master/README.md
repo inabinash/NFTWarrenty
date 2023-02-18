@@ -201,7 +201,7 @@ Once a warranty is activated by a owner in their dashboard the warranty also sho
 
 ## Contributors
 
-Pramod Kumar Mallik
-Subham Dash
-Maloth Aditya 
-Abinash Gupta
+Pramod Kumar Mallik <br>
+Subham Dash <br>
+Maloth Aditya <br>
+Abinash Gupta <br>
